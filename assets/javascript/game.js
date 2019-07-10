@@ -87,12 +87,5 @@ $(document).on('click', ".crystal", function () {
 
 
 
-// A new random number should be ganarate every single time we win or lost
-//to those 4 crystals
-//when clicking any Crystal, it should be adding with the previous result
-//until it equils the total score
-// If it is greater that the Random Result, we lost and decrement a lost
-//If it is equil, then we increment a win counter
-
 
 
